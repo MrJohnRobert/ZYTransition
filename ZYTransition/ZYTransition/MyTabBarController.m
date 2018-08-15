@@ -69,7 +69,7 @@
     [self addChildViewController:[[SecondViewController alloc] init] title:@"发现" imageName:@"tab_icon_community"];
     [self addChildViewController:[[ThreeViewController alloc] init] title:@"社区" imageName:@"tab_icon_community"];
     [self addChildViewController:[[FourViewController alloc] init] title:@"联系" imageName:@"tab_icon_community"];
-    [self addChildViewController:[[FiveViewController alloc] init] title:@"联系" imageName:@"tab_icon_community"];
+    [self addChildViewController:[[FiveViewController alloc] init] title:@"我的" imageName:@"tab_icon_community"];
 }
 
 /// 添加子控制器
